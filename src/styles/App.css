@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  background-color: #e4f6f5;
+}
+.leaflet-container {
+  height: 800px;
+  width: 100%;
+}
